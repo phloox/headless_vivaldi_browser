@@ -1,2 +1,3 @@
 # headless_vivaldi_browser
-Tweaked out and TWM friendly Vivaldi browser. More available workspace, better performance, less battery consumption.
+Tweaked out & TWM friendly Vivaldi.
+Better performance, less battery consumption, more available workspace.
