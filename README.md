@@ -1,3 +1,11 @@
-# headless_vivaldi_browser
-Tweaked out & TWM friendly Vivaldi.
-Better performance, more available workspace, less battery consumption.
+Don't use.
+
+Pay attention to the cat, please.
+
+           __..--''``---....___   _..._    __
+ /// //_.-'    .-/";  `        ``<._  ``.''_ `. / // /
+///_.-' _..--.'_    \                    `( ) ) // //
+/ (_..-' // (< _     ;_..__               ; `' / ///
+ / // // //  `-._,_)' // / ``--...____..-' /// / //
+ 
+Thank you.
